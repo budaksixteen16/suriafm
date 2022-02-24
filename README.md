@@ -57,7 +57,7 @@
   <h1>
     Segalanya Hiburan
   </h1>
-  <p><a href="https://budaksixteen16.github.io/suria-audio"><button class="button button1">Audio</button></a><a href="content://0@media/external/file/00000"><button class="button button2">Video</button></a>
+  <p class="Font"><a href="https://budaksixteen16.github.io/suria-audio"><button class="button button1">Audio</button></a><a href="content://0@media/external/file/00000"><button class="button button2">Video</button></a>
     <iframe width="950" height="700" src="https://www.youtube.com/embed/q6POU_bFGVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     Tonton <b>LIVE YouTube Suria FM</b> dan <b>LIVE Audio Suria FM</b>. Semuanya hanya di sini!
     <h2><b>Jadual Suria FM</b></h2>
@@ -68,5 +68,9 @@
 </body>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+  
+  .Font {
+  font-family: 'Amiri', serif;
+
 </style>
 </html>
