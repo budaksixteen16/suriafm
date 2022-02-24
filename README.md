@@ -1,85 +1,72 @@
 # suriafm 
 
+<html>
 <head>
-
-  
-
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>suriafm - Budak Sixteen (bstv)</title>
   <style>
-
-  
-
-  title> {
-
-    color: red
-
-  }
-
-  h1 {
-
-    color: purple
-
-  }
-
-  p {
-
-    color: yellow
-
-  }
-
   body {
-
-    color: blue
-
+    background: orange;
+    color: yellow;
+    font-family: Amiri;
+    font-size: 50px;
+    text-align: center;
   }
-
+  p {
+    background-image: url('content://0@media/external/file/95800');
+    text-align: center;
+    width: 1000px;
+    height: 950px;
+    font-size: 30px;
+  }
+  h2 {
+    background-image: url('content://0@media/external/file/95800');
+    width: 1000px;
+  }
   div {
-
-    color: black
-
+    background-image: url('content://0@media/external/file/95800');
+    width: 1000px;
   }
-
-  
-
-  </style>
-
-  
-
-  <title>Suria FM</title>
-
-  
-
-  <h1 dir="rtl" class="fSatu" style="text-align: right;"><span style="font-size: x-small;">دسيني اوق بوليه مندڠر دان منونتون ليۏنٰ راديو سوريا ف.م.. اونتوق ڽليهت سناراي سالورن، كتيق سناراي سالورن. | Di sini awak boleh mendengar dan menonton LIVE radio Suria FM. Untuk melihat semua saluran, ketik Senarai Saluran.</span></h1>
-
-  
-
-  <style>
-
-  
-
-  @import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
-
-  
-
-  .fSatu {
-
-    font-family: 'Cairo', sans-serif;</style>
-
-     
-
-   <iframe width="390" height="250" src="https://www.youtube.com/embed/0gdGljUcB08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><div><br /></div><div dir="rtl" class="Suria" style="text-align: right;"><span style="font-size: large;"> سوريا ف.م. - سڬالاڽ هيبورن</span></div><div dir="rtl" class="Suria" style="text-align: right;"><span style="font-size: large;">Suria FM - Segalanya Hiburan</span></div><div><br /></div><div>
-
-     <h1 class="fSatu" dir="rtl" style="button-align: center;"><span style="font-size: x-small;"></span><a href="https://budaksixteen16.github.io/Senarai-Saluran-jawi"><button>📝 سناراي سالورن</button></a><a href="https://budaksixteen16.github.io/TV1"><button>📺 براليه ک‍</button></a></div>
-
+  .button {
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+  }
+  .button1 {width: 100px;}
+  .button2 {
+    width: 100px;
+    background-color: white;
+    color: black;
+  }
+  .button3 {
+    width: 550px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+  }</style>
+</head>
+<body>
+  <h1>
+    Segalanya Hiburan
+  </h1>
+  <p><a href="https://budaksixteen16.github.io/suria-audio"><button class="button button1">Audio</button></a><a href="content://0@media/external/file/00000"><button class="button button2">Video</button></a>
+    <iframe width="950" height="700" src="https://www.youtube.com/embed/q6POU_bFGVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Tonton <b>LIVE YouTube Suria FM</b> dan <b>LIVE Audio Suria FM</b>. Semuanya hanya di sini!
+    <h2><b>Jadual Suria FM</b></h2>
+    <div>06:00 Team Pagi Suria</div><div>10:00 Gaya Suria</div><div>12:00 Muzik Top Suria</div><div>15:00 Suria Petang</div><div>20:00 Suria Cinta</div><div>01:00 Suria FM</div>
+    <h2>Sedang bermain</h2>
+    <div><b>LANGSUNG SEKARANG</b>: Suria Petang</div><div><b>Selepas ini</b>: Suria Cinta</div>
+    <p class="separator" style="clear: both; text-align: center;"><a href="https://dengar.suria.my/wp-content/uploads/2021/08/APP_800X800_REVISED.jpg" imageanchor="1" style="clear: center; float: center; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" height="700" src="https://dengar.suria.my/wp-content/uploads/2021/08/APP_800X800_REVISED.jpg" width="1000" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><br /></div><br /></p>
+</body>
 <style>
-
 @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
-
-.Suria {
-
-  font-family: 'Amiri', serif-bold;</style>
-
-  
-
-  <div class="separator" dir="rtl" style="text-align: right;"><a href="https://budaksixteen16.github.io/suriafm" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: right;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://assets.hotfm.audio/2021/07/featured_hotfm_1200x630.jpg" width="100" /></a></div><div class="separator" dir="rtl" style="text-align: right;"><br /></div><div class="separator" dir="rtl" style="text-align: right;"><br /></div><div class="separator" dir="rtl" style="text-align: right;"><br /></div><div class="separator" dir="rtl" style="text-align: right;"><br /></div><div class="separator" dir="rtl" style="text-align: right;"><br /></div><div class="separator" dir="rtl" style="text-align: right;"><a href="https://budaksixteen16.github.io/hotfm" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="100" data-original-width="90" height="66" src="https://assets.hotfm.audio/2021/07/featured_hotfm_1200x630.jpg" width="90" /></a><a href="https://budaksixteen16.github.io/molekfm" style="clear: right; display: inline; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://assets.molekfm.audio/2022/01/featured_molekfm_1200x630.jpg" width="100" /></a><a href="https://budaksixteen16.github.io/erafm" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Era_Radio.png" width="100" /></a><a href="https://budaksixteen16.github.io/sinarfm" style="clear: right; display: inline; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://yt3.ggpht.com/5NA2u3sOgW978iZMlQiN0Funi6AHZKcvfG0d790SGY84PFSb-iTpKWSCWky8GjyLWxEFevF4gw=s176-c-k-c0x00ffffff-no-rj" width="100" /></a><a href="https://budaksixteen16.github.io/gegar" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://yt3.ggpht.com/D2QInTNaSItlUXLWF8L2hSOud4JAkK9g1SdBvRLy_jaRLaAYK4UybFWBCQfcBULrwtlxEfu5=s176-c-k-c0x00ffffff-no-rj" width="100" /></a><a href="https://budaksixteen16.github.io/buletinfm" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://assets.buletinfm.audio/2021/07/featured_buletinfm_1200x630.jpg" width="100" /></a><a href="https://budaksixteen16.github.io/Didik-TV-KPM" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://blogger.googleusercontent.com/img/a/AVvXsEjQU36Kl2SgrJU_wB1_2hAeUCkY0jfunjofefz8a-DM9tQKyNpELNZedEZ_qyi2Ym7PKQT75Y6B5H4K7lgW4cTVw8EGtX5WxdI4rKjM42C-gICZykPIdl5pbCSP4RzKdwbJ_mJV3ltlIRbPmjCWCi05ZcqIzlYUFe9Q0zhY1rKU804Dh9IkxtN6XSXk=s320" width="100" /></a><br />
-
-</div>    
+</style>
+</html>
